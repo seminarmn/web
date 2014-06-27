@@ -8,7 +8,6 @@ exclude:
     - Gruntfile.js
     - bower.json
     - package.json
-
 # Site
-name: Masega
-baseurl: http://masegalab.github.io/web
+name: Seminar
+baseurl: http://seminarmn.github.io/web
