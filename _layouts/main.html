@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta name="google-site-verification" content="ue54bn5rHKzRMcyp4bliUabjC26ZX-EgIt1fdq17Ito" />
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>{{ page.title }}</title>
+
+    <!-- Styles -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <!--<link href="css/main.css" rel="stylesheet">-->
+    <link href="css/modern-business.css" rel="stylesheet">
+    <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet">
+    <link rel="shortcut icon" href="P.png">
+  </head>
+
+  <body>
+    <!-- Content -->
+    <div class="container">
+
+      <!-- Navigation Bar -->
+      {% include navbar.html %}
+
+
+
+    </div>
+
+    <div class="carousel slide" style="height:25cm">
+
+      <!-- Carousel -->
+      {% include carousel.html %}
+
+     {{ content }}
+
+    </div>
+
+
+
+
+
+
+    <script type="text/javascript" src="{{ site.baseurl }}/js/lib/jquery.min.js"></script>
+    <script type="text/javascript" src="{{ site.baseurl }}/js/bootstrap.min.js"></script>
+  </body>
+</html>
