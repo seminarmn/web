@@ -1,26 +1,26 @@
 {
-  "name": "curso-d3-basico",
+  "name": "Seminario de Parobabilidad",
   "version": "0.1.0",
-  "description": "Material para el curso 'Visualización de datos con D3'",
+  "description": "Página obsoleta del seminario",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/masegalab/curso-d3-basico.git"
+    "url": "git@github.com:seminarmn/web.git"
   },
   "keywords": [
     "d3",
     "curso",
     "visualizacion"
   ],
-  "author": "Gregorio Moreno <gregorio@masega.co>",
+  "author": "Gregorio Moreno <gregorio@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/masegalab/curso-d3-basico/issues"
+    "url": "https://github.com/seminarmn/web/issues"
   },
-  "homepage": "https://github.com/masegalab/curso-d3-basico",
+  "homepage": "https://github.com/seminarmn/web",
   "devDependencies": {
     "grunt": "^0.4.5",
     "grunt-contrib-connect": "^0.8.0",
