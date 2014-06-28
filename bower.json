@@ -1,20 +1,19 @@
 {
-  "name": "curso-d3-basico",
+  "name": "Seminario de Probabilidad",
   "version": "0.1.0",
-  "homepage": "https://github.com/masegalab/curso-d3-basico",
+  "homepage": "https://github.com/seminarmn/web",
   "authors": [
-    "Gregorio Moreno <gregorio@masega.co>",
-    "Pablo Navarro <pablo@masega.co>"
-  ],
-  "description": "Material para el curso 'Visualización de datos con D3'",
+    "Gregorio Moreno <gregorio.random@gmail.com>"
+      ],
+  "description": "Página obsoleta del seminario",
   "main": "index.html",
   "moduleType": [
     "globals"
   ],
   "keywords": [
-    "d3",
-    "visualizacion",
-    "curso"
+    "Núcleo Milenio",
+    "seminario",
+    "probabilidades"
   ],
   "license": "MIT",
   "private": true,
